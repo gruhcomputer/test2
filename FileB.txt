@@ -1,1 +1,2 @@
 sample text file B
+this is change in file B
