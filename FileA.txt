@@ -1,3 +1,2 @@
 sample text file A
-q
-this is another change
+changed version 2
