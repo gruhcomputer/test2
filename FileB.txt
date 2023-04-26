@@ -2,3 +2,4 @@ sample text file B
 this is change in file B
 this is another change
 another change... together with file A
+this is a new cchange in local file B
