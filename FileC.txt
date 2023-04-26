@@ -1,2 +1,3 @@
 this is file C text based file...
 this is a test
+this is a local change in file C
